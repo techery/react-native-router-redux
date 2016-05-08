@@ -14,7 +14,7 @@
   "author": "Team Qwikly",
   "license": "MIT",
   "dependencies": {
-    "react-native-navbar": "techery/react-native-navbar#94a1483a954007943a4a1455ab8a5f9d89681ca1",
+    "react-native-navbar": "techery/react-native-navbar#bfcb7e6a71c3c012f469c17caf67861b7142c691",
     "react-native-tabs": "malkomalko/react-native-tabs"
   }
 }
